@@ -6,3 +6,4 @@ https://groups.google.com/a/ucar.edu/g/wrfpython-talk
 
 #Interesting slide show from NCAR
 https://opensky.ucar.edu/islandora/object/conference%3A3173/datastream/PDF/wrf-python.readthedocs.io
+https://github.com/NCAR/wrf-python #(on github)
