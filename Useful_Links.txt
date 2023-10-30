@@ -1,0 +1,8 @@
+#This is the official wrf homepage, plotting section. *Ample* documentation and commented examples. 
+https://wrf-python.readthedocs.io/en/develop/plot.html   
+
+#Google-based discussion Forum, topresent problem and expect solutions to and from the wrf-python community. 
+https://groups.google.com/a/ucar.edu/g/wrfpython-talk
+
+#Interesting slide show from NCAR
+https://opensky.ucar.edu/islandora/object/conference%3A3173/datastream/PDF/wrf-python.readthedocs.io
